@@ -13,7 +13,7 @@ namespace Tetris.ViewModels
 		};
 
 		public override int Id => 1;
-		protected override Position StartOffset => new Position(-1, 3);
+		protected override Position StartOffset => new(-1, 3);
 		protected override Position[][] Tiles => tiles;
 	}
 }
