@@ -3,7 +3,6 @@ C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\bin\Debug\n
 C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
 C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
 C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\bin\Debug\net5.0-windows\Tetris.dll
-C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\bin\Debug\net5.0-windows\ref\Tetris.dll
 C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
 C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
 C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
@@ -20,3 +19,5 @@ C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\obj\Debug\n
 C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
 C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
 C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\obj\Debug\net5.0-windows\Tetris_Content.g.cs
+C:\Users\Marothi Mahlake\Documents\__Repos\C#\Practice\Tetris\Tetris\obj\Debug\net5.0-windows\refint\Tetris.dll
